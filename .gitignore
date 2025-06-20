@@ -2,3 +2,6 @@ src/__pycache__/
 src/helper/__pycache__/
 *.png
 *.vscode
+
+venv/
+.venv/
